@@ -1,0 +1,1 @@
+This folder is for the AI usage record, meaning prompts, outputs, tools and the commits they affected.

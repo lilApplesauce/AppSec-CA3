@@ -1,0 +1,1 @@
+This folder is for test screenshots, HTTP requests and responses, and SAST/DAST ouput
